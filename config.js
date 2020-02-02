@@ -16,11 +16,11 @@ module.exports = {
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'Tôi làm gì?',
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
+      label: 'Kết nối với tôi',
       path: '/pages/contacts'
     }
   ],
