@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by Hữu Quyết',
+  title: 'Blog của Hữu Quyết',
   subtitle: 'Chỉ là blog của một thằng coder',
   copyright: '© All rights reserved.',
   disqusShortname: '',
@@ -31,7 +31,7 @@ module.exports = {
     contacts: {
       email: 'huuquyet10@gmail.com',
       facebook: 'quyet.huu.7777',
-      telegram: '@q12031998',
+      telegram: 'q12031998',
       twitter: 'HuuHuuquyet7777',
       github: '',
       rss: '',
