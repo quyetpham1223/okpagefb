@@ -1,7 +1,7 @@
 ---
 template: page
 title: Tôi làm gì ?
-slug: about
+slug: about-me
 draft: true
 ---
 Tôi chỉ là một người đam mê máy tính và thế giới web, tôi hâm mộ Google, tôi hâm một Facebook, cũng như mọi website mang lại lợi ích và kết nối với mọi người. Tôi rất muốn và đang hàng ngày bước tới xây dựng những ứng dụng web tiện lợi, những giao diện đẹp, dù những gì tôi là là rất nhỏ bé.
