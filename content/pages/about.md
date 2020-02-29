@@ -4,4 +4,4 @@ title: Tôi làm gì ?
 slug: about
 draft: false
 ---
-Loading...
+HELLO
